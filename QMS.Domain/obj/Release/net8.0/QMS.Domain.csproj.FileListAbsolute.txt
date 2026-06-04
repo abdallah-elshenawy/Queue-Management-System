@@ -1,0 +1,11 @@
+E:\Projects\QMSProject\QMS.Domain\bin\Release\net8.0\QMS.Domain.deps.json
+E:\Projects\QMSProject\QMS.Domain\bin\Release\net8.0\QMS.Domain.dll
+E:\Projects\QMSProject\QMS.Domain\bin\Release\net8.0\QMS.Domain.pdb
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\QMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\QMS.Domain.AssemblyInfoInputs.cache
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\QMS.Domain.AssemblyInfo.cs
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\QMS.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\QMS.Domain.dll
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\refint\QMS.Domain.dll
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\QMS.Domain.pdb
+E:\Projects\QMSProject\QMS.Domain\obj\Release\net8.0\ref\QMS.Domain.dll

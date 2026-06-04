@@ -1,0 +1,15 @@
+E:\Projects\QMSProject\QMS.Application\bin\Release\net8.0\QMS.Application.deps.json
+E:\Projects\QMSProject\QMS.Application\bin\Release\net8.0\QMS.Application.dll
+E:\Projects\QMSProject\QMS.Application\bin\Release\net8.0\QMS.Application.pdb
+E:\Projects\QMSProject\QMS.Application\bin\Release\net8.0\QMS.Domain.dll
+E:\Projects\QMSProject\QMS.Application\bin\Release\net8.0\QMS.Domain.pdb
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Application.csproj.AssemblyReference.cache
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Application.AssemblyInfoInputs.cache
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Application.AssemblyInfo.cs
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Application.csproj.CoreCompileInputs.cache
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Appl.85D0ABF4.Up2Date
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Application.dll
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\refint\QMS.Application.dll
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\QMS.Application.pdb
+E:\Projects\QMSProject\QMS.Application\obj\Release\net8.0\ref\QMS.Application.dll

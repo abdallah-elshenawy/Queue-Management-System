@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IhXqn9z5JwW8UIncALtGFOn12lOvCqS/G1aKPEnLdTw=",
+  "Source": "QMS.Api",
+  "BasePath": "_content/QMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

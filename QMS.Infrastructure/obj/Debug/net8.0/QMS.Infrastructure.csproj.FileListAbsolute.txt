@@ -1,0 +1,17 @@
+E:\Projects\QMSProject\QMS.Infrastructure\bin\Debug\net8.0\QMS.Infrastructure.deps.json
+E:\Projects\QMSProject\QMS.Infrastructure\bin\Debug\net8.0\QMS.Infrastructure.dll
+E:\Projects\QMSProject\QMS.Infrastructure\bin\Debug\net8.0\QMS.Infrastructure.pdb
+E:\Projects\QMSProject\QMS.Infrastructure\bin\Debug\net8.0\QMS.Domain.dll
+E:\Projects\QMSProject\QMS.Infrastructure\bin\Debug\net8.0\QMS.Domain.pdb
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.AssemblyInfo.cs
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infr.A6ACD775.Up2Date
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.dll
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\refint\QMS.Infrastructure.dll
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.pdb
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\ref\QMS.Infrastructure.dll
+E:\Projects\QMSProject\QMS.Infrastructure\bin\Debug\net8.0\QMS.Infrastructure.runtimeconfig.json
+E:\Projects\QMSProject\QMS.Infrastructure\obj\Debug\net8.0\QMS.Infrastructure.genruntimeconfig.cache
